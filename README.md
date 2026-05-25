@@ -37,16 +37,16 @@ This dashboard helps simplify complex datasets into easy-to-understand reports f
 ## 📷 Dashboard Preview
 
 ### 🏠 Dashboard Home
-![Dashboard 1](images/dashboard1.png)
+![Dashboard 1](dashboard1.png)
 
 ### 📈 Analytics Overview
-![Dashboard 2](images/dashboard2.png)
+![Dashboard 2](dashboard2.png)
 
 ### 📊 Insights & Reporting
-![Dashboard 3](images/dashboard3.png)
+![Dashboard 3](dashboard3.png)
 
 ### 📉 Performance Analysis
-![Dashboard 4](images/dashboard4.png)
+![Dashboard 4](dashboard4.png)
 
 ---
 
